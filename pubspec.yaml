@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  redux: ">=4.0.0 <5.0.0"
-  flutter_hooks: ">=0.14.1 <1.0.0"
+  redux: ">=5.0.0"
+  flutter_hooks: ">=0.17.0 <1.0.0"
   meta: ">=1.1.8 <2.0.0"
 
 dev_dependencies:
